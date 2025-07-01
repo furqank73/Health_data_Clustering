@@ -15,6 +15,8 @@ from reportlab.lib import colors
 import io
 import base64
 from datetime import datetime
+import warnings
+warnings.filterwarnings("ignore")
 
 # Page configuration
 st.set_page_config(
