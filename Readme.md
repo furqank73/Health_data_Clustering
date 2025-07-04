@@ -7,7 +7,7 @@ A machine learning project that applies **unsupervised learning** (KMeans cluste
 
 # 🧠 Health Data Clustering App
 
-![Health Data Clustering App](https://healthclustering.streamlit.app/)
+# ![Health Data Clustering App](https://healthclustering.streamlit.app/)
 
 ---
 
