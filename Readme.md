@@ -4,6 +4,11 @@ A machine learning project that applies **unsupervised learning** (KMeans cluste
 
 ![Cluster Plot](image.png)
 
+
+# 🧠 Health Data Clustering App
+
+[![Health Data Clustering App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://healthclustering.streamlit.app/)
+
 ---
 
 ## 📁 Project Structure
